@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/poanetwork/poa-governance-notifications.svg?branch=master)](https://travis-ci.org/poanetwork/poa-governance-notifications) 
 
-# `poa-governance-notifications`
+# `woa-governance-notifications`
 
 A CLI tool for monitoring a blockchain for POA Network governance ballots. This tool can be used to
 monitor _any_ chain that uses POA Network's governance contracts.
